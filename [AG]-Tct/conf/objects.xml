@@ -1,0 +1,382 @@
+<objects>
+	<group name="Tel Demir Kapi">
+		<obj name="Telli kapi" model="969" />
+		<obj name="Telli kapi 2" model="975" />
+		<obj name="Telli kapi 3" model="976" />
+		<obj name="Telli kapi 4" model="980" />
+		<obj name="Telli kapi rigth" model="985" />
+		<obj name="Telli kapi left" model="986" />
+		<obj name="Telli kapi 2" model="988" />
+		<obj name="Telli kapi 3" model="989" />
+		<obj name="Subway kapi" model="971" />
+		<obj name="Tunnel kapi" model="972" />
+		<obj name="Fence" model="970" />
+		<obj name="Fence 2" model="982" />
+		<obj name="Fence 3" model="983" />
+		<obj name="Fence 4" model="984" />
+		<obj name="Fence 5" model="3475" />
+		<obj name="Fence 6 [d]" model="1411" />
+		<obj name="Fence 7 [d]" model="1410" />
+		<obj name="Fence 8" model="8167" />
+		<obj name="Telli Kapi" model="987" />
+		<obj name="Yol Bariyer" model="973" />
+		<obj name="Yol Bariyer rigth" model="978" />
+		<obj name="Yol Bariyer left" model="979" />
+		<obj name="Bariyer" model="981" />
+	</group>
+	<group name="Kapilar">
+		<obj name="Kapi" model="1491" />
+		<obj name="Kapi 2" model="1492" />
+		<obj name="Kapi 3" model="1494" />
+		<obj name="Kapi 4" model="1499" />
+		<obj name="Kapi 5" model="1502" />
+		<obj name="Kapi 6" model="1566" />
+		<obj name="Kapi 7" model="1523" />
+		<obj name="Kapi 8" model="1557" />
+		<obj name="Kapi 9" model="1532" />
+		<obj name="Kapi 10" model="977" />
+		<obj name="Kapi 11" model="1493" />
+		<obj name="Kapi 12" model="1504" />
+	</group>
+	<group name="Aydinlatma">
+		<obj name="Yesil Aydinlatici " model="3385" />
+		<obj name="Kirmizi Lamba " model="3534" />
+		<obj name="Sokak 1" model="3472" />
+		<obj name="Sokak 2" model="3463" />
+		<obj name="Lamba " model="3524" />
+		<obj name="Lamba 1" model="3525" />
+		<obj name="Lamba 2" model="3877" />
+		<obj name="Lamba 3" model="1568" />
+		<obj name="Lamba 4" model="3853" />
+		<obj name="Lamba 5" model="3855" />
+	</group>
+	<group name="Objeler">
+		<obj name="kapibar" model="966" />
+		<obj name="kapibox" model="967" />
+		<obj name="kapi" model="968" />
+		<obj name="Air conditioning" model="1635" />
+		<obj name="Crane" model="3620" />
+	</group>
+	<group name="Duvar / Garaj Kapisi">
+		<obj name="Garaj 1" model="17951" />
+		<obj name="Garaj 2" model="2957" />
+		<obj name="Tahta panel" model="3260" />
+		<obj name="Tahta panel 2" model="2395" />
+		<obj name="Demir panel [h]" model="3280" />
+		<obj name="Demir panel 2" model="3117" />
+		<obj name="Demir panel 3" model="3055" />
+		<obj name="Demir panel 4" model="2929" />
+		<obj name="Demir panel 5" model="2928" />
+		<obj name="Demir panel 6" model="2679" />
+		<obj name="Demir sheet" model="2904" />
+		<obj name="Demir sheets [h]" model="3302" />
+		<obj name="Demir sheets 2 [d]" model="1414" />
+		<obj name="Dojo Duvar" model="2755" />
+		<obj name="Partition" model="2591" />
+		<obj name="Cam" model="1649" />
+		<obj name="Cam 1" model="3278" />
+		<obj name="Cam 2" model="3851" />
+		<obj name="B Garaj Kapi" model="16773" />
+		<obj name="B Garaj Kapi 2" model="16775" />
+		<obj name="Garaj Kapi" model="13187" />
+		<obj name="Garaj Kapi 2" model="11319" />
+		<obj name="Garaj Kapi 3" model="11102" />
+		<obj name="Demir Kapi" model="2634" />
+	</group>
+	<group name="insaat Malzemeleri">
+		<obj name="Taban" model="3095" />
+		<obj name="Taban 2" model="3115" />
+		<obj name="Taban 3" model="3114" />
+		<obj name="duvar 2" model="8645" />
+		<obj name="duvar 3 b" model="8647" />
+		<obj name="duvar 4" model="8650" />
+		<obj name="duvar 4 b" model="8653" />
+		<obj name="duvar 5" model="13647" />
+		<obj name="duvar 5 b" model="13648" />
+		<obj name="duvar corner" model="4724" />
+		<obj name="duvar corner 2" model="7921" />
+		<obj name="Column" model="9131" />
+		<obj name="Column 2" model="3533" />
+		<obj name="Column 3" model="3494" />
+		<obj name="Column 4" model="3441" />
+		<obj name="Pillar" model="3499" />
+		<obj name="Pillar 2" model="3498" />
+		<obj name="Pillar 3" model="3440" />
+		<obj name="Pillar 4" model="2774" />
+		<obj name="Beam" model="3529" />
+		<obj name="Beam b" model="3530" />
+		<obj name="Beam 2" model="2960" />
+		<obj name="Boru" model="3502" />
+		<obj name="Bariyer" model="3578" />
+		<obj name="Araba Parki" model="3458" />
+		<obj name="Dock" model="10841" />
+		<obj name="Porch" model="1472" />
+		<obj name="Stairs" model="14387" />
+		<obj name="Stairs 2" model="7096" />
+		<obj name="Scaffold" model="1466" />
+		<obj name="Cover" model="3403" />
+		<obj name="Walkway" model="2633" />
+		<obj name="Guard house" model="5837" />
+		<obj name="Kulube" model="3626" />
+		<obj name="Ahir" model="8251" />
+		<obj name="Ahir 2" model="16098" />
+		<obj name="Garaj" model="18266" />
+		<obj name="Garaj 2" model="17324" />
+		<obj name="Garaj 3" model="10831" />
+		<obj name="Garaj 4" model="16409" />
+		<obj name="Kule" model="3279" />
+		<obj name="Conteynir" model="2669" />
+		<obj name="Merdiven" model="1428" />
+		<obj name="Merdiven 1" model="1437" />
+		<obj name="Merdiven 2" model="11544" />
+		<obj name="Merdiven 3" model="3361" />
+		<obj name="Merdiven 4" model="5130" />
+		<obj name="Merdiven 5" model="12839" />
+		<obj name="Merdiven 6" model="12958" />
+		<obj name="Merdiven 7" model="12987" />
+		<obj name="Merdiven 8" model="13011" />
+		<obj name="Merdiven 9" model="13749" />
+		<obj name="Merdiven 10" model="13749" />
+		<obj name="Merdiven 11" model="12950" />
+		<obj name="Merdiven 12" model="10009" />
+		<obj name="Merdiven 13" model="1698" />
+		<obj name="Yuruyen Merdiven" model="3743" />
+		<obj name="Tahta Taban" model="11496" />
+		<obj name="HGS Gecis" model="9623" />
+		<obj name="Ev 1" model="19503" />
+		<obj name="Ev 2" model="19497" />
+	</group>
+	<group name="Ev Esyalari">
+		<obj name="Fisli Masa" model="2568" />
+		<obj name="Masa 1" model="2562" />
+		<obj name="Masa 2" model="2604" />
+		<obj name="Masa 3" model="2234" />
+		<obj name="Dolap " model="2204" />
+		<obj name="Dolap 1" model="2199" />
+		<obj name="Dolap 2" model="2164" />
+		<obj name="Dolap 3" model="2167" />
+		<obj name="Dolap 4" model="2576" />
+		<obj name="Dolap 5" model="2163" />
+		<obj name="Dolap 6" model="2025" />
+		<obj name="Plaj Yatak" model="1646" />
+		<obj name="Yatak" model="1700" />
+		<obj name="Yatak 2" model="1701" />
+		<obj name="Yatak 3" model="1725" />
+		<obj name="Yatak 4" model="1745" />
+		<obj name="Yatak 5" model="1800" />
+		<obj name="Yatak 6" model="1793" />
+		<obj name="Yatak 7" model="1794" />
+		<obj name="Yatak 8" model="1796" />
+		<obj name="Yatak 9" model="1799" />
+		<obj name="Yatak 10" model="1802" />
+		<obj name="Yatak 11" model="1803" />
+		<obj name="Yatak 12" model="1812" />
+		<obj name="Swank Yatak" model="1795" />
+		<obj name="Swank Yatak 2" model="1797" />
+		<obj name="Swank Yatak 3" model="1798" />
+		<obj name="Swank Yatak 4" model="1801" />
+		<obj name="Koltuk" model="1702" />
+		<obj name="Koltuk 2" model="1703" />
+		<obj name="Koltuk 3" model="1706" />
+		<obj name="Koltuk 4" model="1707" />
+		<obj name="Koltuk 5" model="1709" />
+		<obj name="Koltuk 6" model="1710" />
+		<obj name="Koltuk 7" model="1712" />
+		<obj name="Koltuk 8" model="1713" />
+		<obj name="Koltuk 9" model="1723" />
+		<obj name="Koltuk 10" model="1726" />
+		<obj name="Koltuk 11" model="1728" />
+		<obj name="Koltuk 12" model="1756" />
+		<obj name="Koltuk 13" model="1757" />
+		<obj name="Koltuk 14" model="1760" />
+		<obj name="Koltuk 15" model="1763" />
+		<obj name="Koltuk 16" model="1764" />
+		<obj name="Koltuk 17" model="1766" />
+		<obj name="Koltuk 18" model="1768" />
+		<obj name="Swank Koltuk" model="1761" />
+		<obj name="Swank Koltuk 2" model="1753" />
+		<obj name="Tekli Koltuk" model="1704" />
+		<obj name="Tekli Koltuk 2" model="1705" />
+		<obj name="Tekli Koltuk 3" model="1708" />
+		<obj name="Tekli Koltuk 4" model="1711" />
+		<obj name="Tekli Koltuk 5" model="1721" />
+		<obj name="Tekli Koltuk 6" model="1724" />
+		<obj name="Tekli Koltuk 7" model="1727" />
+		<obj name="Tekli Koltuk 8" model="1729" />
+		<obj name="Tekli Koltuk 9" model="1735" />
+		<obj name="Tekli Koltuk 10" model="1755" />
+		<obj name="Tekli Koltuk 11" model="1758" />
+		<obj name="Tekli Koltuk 12" model="1759" />
+		<obj name="Tekli Koltuk 13" model="1765" />
+		<obj name="Tekli Koltuk 14" model="1767" />
+		<obj name="Tekli Koltuk 15" model="1769" />
+		<obj name="Tekli Koltuk 16" model="1810" />
+		<obj name="Dining Tekli Koltuk" model="1811" />
+		<obj name="Swank shair" model="1739" />
+		<obj name="Swank shair 2" model="1754" />
+		<obj name="Swank shair 3" model="1762" />
+		<obj name="Restaurant Tekli Koltuk" model="1720" />
+		<obj name="Swivel shair" model="1714" />
+		<obj name="Swivel shair 2" model="1715" />
+		<obj name="Swivel shair 3" model="1806" />
+		<obj name="Stool" model="1716" />
+		<obj name="Stool 2" model="1805" />
+		<obj name="Swank footstool" model="1746" />
+		<obj name="Masa" model="1827" />
+		<obj name="Dining Masa" model="1737" />
+		<obj name="Dining Masa 2" model="1770" />
+		<obj name="Coffee Masa" model="1814" />
+		<obj name="Coffee Masa 2" model="1815" />
+		<obj name="Coffee Masa 3" model="1816" />
+		<obj name="Coffee Masa 4" model="1817" />
+		<obj name="Coffee Masa 5" model="1818" />
+		<obj name="Coffee Masa 6" model="1820" />
+		<obj name="Coffee Masa 7" model="1821" />
+		<obj name="Coffee Masa 8" model="1823" />
+		<obj name="Swank coffee Masa" model="1819" />
+		<obj name="Swank coffee Masa 2" model="1822" />
+		<obj name="Kabin" model="1740" />
+		<obj name="Kabin 2" model="1741" />
+		<obj name="Kabin 3" model="1743" />
+		<obj name="KKK" model="1744" />
+		<obj name="Kitaplik" model="1742" />
+		<obj name="Sw Kabin" model="1730" />
+	</group>
+	<group name="Teknoloji">
+		<obj name="Televizyon" model="1717" />
+		<obj name="Televizyon 2" model="1747" />
+		<obj name="Televizyon 3" model="1748" />
+		<obj name="Televizyon 4" model="1749" />
+		<obj name="Televizyon 5" model="1750" />
+		<obj name="Televizyon 6" model="1751" />
+		<obj name="Televizyon 7" model="1781" />
+		<obj name="Swank Televizyon" model="1752" />
+		<obj name="Swank Televizyon 2" model="1786" />
+		<obj name="Swank Televizyon 3" model="1791" />
+		<obj name="Swank Televizyon 4" model="1792" />
+		<obj name="Console" model="1718" />
+		<obj name="Console 2" model="1719" />
+		<obj name="Video" model="1782" />
+		<obj name="Video 2" model="1785" />
+		<obj name="Video 3" model="1787" />
+		<obj name="Video 4" model="1809" />
+		<obj name="Swank video" model="1783" />
+		<obj name="Swank video 2" model="1788" />
+		<obj name="Swank video 3" model="1790" />
+		<obj name="Fridge" model="1780" />
+		<obj name="Watercooler" model="1808" />
+	</group>
+	<group name="Diger">
+	<obj name="Kasis" model="2926" />
+		<obj name="Rampa 1" model="1632" />
+		<obj name="Rampa 2" model="1634" />
+		<obj name="Rampa 3" model="1655" />
+		<obj name="Rampa 4" model="1503" />
+		<obj name="Rampa 5" model="1697" />
+		<obj name="Rampa 6" model="16401" />
+		<obj name="Rampa 7" model="13638" />
+		<obj name="Rampa 8" model="13645" />
+		<obj name="Rampa 9" model="13641" />
+		<obj name="Rampa 10" model="13647" />
+		<obj name="Rampa 11" model="13648" />
+		<obj name="Rampa 12" model="18367" />
+		<obj name="Rampa 13" model="16305" />
+		<obj name="Rampa 14" model="13639" />
+		<obj name="Rampa 15" model="13604" />
+		<obj name="Dus Kabin" model="2517" />
+		<obj name="Banyo 1" model="2526" />
+		<obj name="Banyo 2" model="2519" />
+		<obj name="Klozet" model="2514" />
+		<obj name="Klozet 1" model="2528" />
+		<obj name="Klozet 2" model="2525" />
+		<obj name="Cesme" model="2523" />
+		<obj name="Cesme 1" model="2524" />
+		<obj name="Dev Agac" model="664" />
+		<obj name="Pembe Ucurtma" model="2497" />
+		<obj name="Sahil Guvenlik" model="1637" />
+		<obj name="Minibar" model="16151" />
+		<obj name="OrtaBoy Bar" model="14537" />
+		<obj name="Minik Giris Masasi" model="2592" />
+		<obj name="Buyuk Giris Masasi" model="2784" />
+		<obj name="Mini Guvenlik" model="3430" />
+		<obj name="ATM" model="2754" />
+		<obj name="Oyun Kutusu" model="2681" />
+		<obj name="Oyun" model="1978" />
+		<obj name="Hoparlor" model="2229" />
+		<obj name="Hoparlor 1" model="2232" />
+		<obj name="Hoparlor 2" model="2230" />
+		<obj name="Radyo" model="2102" />
+		<obj name="Radyo 1" model="2226" />
+		<obj name="Radyo 2" model="2103" />
+		<obj name="CD / VCD" model="2104" />
+		<obj name="Sport Aleti" model="2627" />
+		<obj name="Sport Aleti 1" model="2630" />
+		<obj name="Sport Aleti 2" model="2628" />
+		<obj name="Sport Aleti 3" model="2629" />
+		<obj name="Kacak Et" model="2589" />
+		<obj name="Mizrak" model="2590" />
+		<obj name="Isyeri Kasa" model="" />
+		<obj name="Ucurtma" model="2487" />
+		<obj name="Mavi Ucurtma" model="2498" />
+		<obj name="Masa" model="2764" />
+		<obj name="Masa 1" model="2763" />
+		<obj name="icecek Makinasi" model="955" />
+		<obj name="icecek Makinasi 1" model="956" />
+		<obj name="icecek Makinasi 2" model="1209" />
+		<obj name="Canta" model="1210" />
+		<obj name="Sahte Para" model="1212" />
+		<obj name="Sahte Can" model="1240" />
+		<obj name="Sahte Hap" model="1241" />
+		<obj name="Sahte CelikYelek" model="1242" />
+		<obj name="Sahte Yildiz" model="1247" />
+		<obj name="Sahte Satilik Ev" model="1273" />
+		<obj name="" model="" />
+		<obj name="" model="" />
+		<obj name="Canta Dolusu Dolar" model="1550" />
+		<obj name="Ucak Savar" model="2064" />
+		<obj name="C4 Patlayici" model="1654" />
+		<obj name="Benzin" model="1650" />
+		<obj name="Civili Balyoz" model="2045" />
+		<obj name="Tup" model="918" />
+		<obj name="Patlayici Varil" model="1222" />
+		<obj name="Patlayici Varil 2" model="1225" />
+		<obj name="Benzinlik" model="1676" />
+		<obj name="Ucak Savar" model="3267" />
+		<obj name="Saman" model="3374" />
+		<obj name="Telefon" model="1216" />
+		<obj name="Otel Tabela" model="7388" />
+		<obj name="Adam Heykel" model="7073" />
+		<obj name="Gari Giz Heykel" model="7392" />
+		<obj name="Atesli Aslan Kafasi" model="3528" />
+		<obj name="Boynuz" model="6865" />
+		<obj name="Kafatasi Dag" model="8483" />
+		<obj name="insaat malzemesi" model="3864" />
+		<obj name="Sprunk" model="13562" />
+		<obj name="Benzinlik Tabela" model="11417" />
+		<obj name="inek" model="11470" />
+		<obj name="Yumruk Cuvali" model="1985" />
+		<obj name="Copluk 1" model="1415" />
+		<obj name="Copluk 2" model="1430" />
+		<obj name="Ot" model="626" />
+		<obj name="Ot 2 " model="627" />
+		<obj name="Kaktus " model="650" />
+		<obj name="Cicek 1" model="2245" />
+		<obj name="Cicek 2" model="2811" />
+		<obj name="Cicek 3" model="644" />
+		<obj name="Cicek 4" model="656" />
+		<obj name="Agac 1" model="624" />
+		<obj name="Agac 2" model="725" />
+		<obj name="Surf Tahtasi" model="2406" />
+		<obj name="Kale Kapisi" model="3749" />
+		<obj name="Vending machine" model="1775" />
+		<obj name="Vending machine 2" model="1776" />
+		<obj name="Chambermaid trolley" model="1789" />
+		<obj name="Safe" model="1829" />
+		<obj name="Kopek Baligi" model="1608" />
+		<obj name="Camii" model="6295" />
+		<obj name="Ring" model="14781" />
+		<obj name="Bira Sisesi" model="1487" />
+		<obj name="Bardak" model="1667" />
+		<obj name="Oturma Yerleri" model="16152" />
+	</group>
+</objects>

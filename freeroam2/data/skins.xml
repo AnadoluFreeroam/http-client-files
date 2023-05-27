@@ -1,0 +1,18 @@
+﻿<catalog type="skin">
+    
+     <group name="『 KARAKTERLER 』">
+    <skin id="VG" name=""/>
+    <skin id="220" name="● Erkek Karakteri"/>
+    <skin id="221" name="● Erkek Karakteri 2"/>
+    <skin id="222" name="● Erkek Karakteri 3"/>
+    <skin id="223" name="● Erkek Karakteri 4"/>
+    <skin id="224" name="● Erkek Karakteri 5"/>
+    <skin id="VG" name=""/>
+    <skin id="91" name="● Bayan Karakteri"/>
+    <skin id="93" name="● Bayan Karakteri 2"/>
+    <skin id="141" name="● Bayan Karakteri 3"/>
+    <skin id="191" name="● Bayan Karakteri 4"/>
+    <skin id="192" name="● Bayan Karakteri 5"/>
+    <skin id="VG" name=""/>
+	</group>
+</catalog>

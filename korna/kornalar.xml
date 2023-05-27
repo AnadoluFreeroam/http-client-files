@@ -1,0 +1,17 @@
+﻿<kornalar>
+	<korna ad="Standart" fiyat="50" dosya="kornalar/standart.mp3" siddet="1" maxmesafe="100" goster="evet"/> <!-- İlk sıradaki korna her zaman araçlar(Araba,Kamyon) için varsayılan kornadır! -->
+	<korna ad="Tren" fiyat="200" dosya="kornalar/train.mp3" siddet="1" maxmesafe="150" goster="-"/> <!-- İkinci sıradaki korna her zaman tren için varsayılan kornadır! -->
+	<korna ad="Motosiklet" fiyat="100" dosya="kornalar/bike.mp3" siddet="1" maxmesafe="50" goster="-"/> <!-- Üçüncü sıradaki korna her zaman motosiklet için varsayılan kornadır! -->
+	<korna ad="Bisiklet" fiyat="100" dosya="kornalar/bike2.mp3" siddet="1" maxmesafe="60" goster="-"/>	<!-- Üçüncü sıradaki korna her zaman bisikletler için varsayılan kornadır! -->
+	<korna ad="Baba" fiyat="100" dosya="kornalar/baba.mp3" siddet="1" maxmesafe="100" goster="evet"/>
+	<korna ad="Sis" fiyat="100" dosya="kornalar/foghorn.mp3" siddet="1" maxmesafe="100" goster="evet"/>
+	<korna ad="Dixie" fiyat="100" dosya="kornalar/dixie.mp3" siddet="1" maxmesafe="100" goster="evet"/>
+
+	<korna ad="Da-Dat" fiyat="100" dosya="kornalar/korna1.mp3" siddet="1" maxmesafe="30" goster="evet"/>
+	<korna ad="Dali Dali" fiyat="150" dosya="kornalar/dalidali.mp3" siddet="1" maxmesafe="45" goster="evet"/>
+	<korna ad="Fala Fala" fiyat="150" dosya="kornalar/falafala.mp3" siddet="1" maxmesafe="45" goster="evet"/>
+	<korna ad="3 Borulu K." fiyat="200" dosya="kornalar/3boruluk.mp3" siddet="1" maxmesafe="45" goster="evet"/>
+	<korna ad="Salyangoz" fiyat="150" dosya="kornalar/salyangoz.mp3" siddet="1" maxmesafe="45" goster="evet"/>
+	<korna ad="Polis Sireni" fiyat="70" dosya="kornalar/korna2.mp3" siddet="1" maxmesafe="70" goster="evet"/>
+	<korna ad="La-La-La" fiyat="70" dosya="kornalar/korna3.mp3" siddet="1" maxmesafe="70" goster="evet"/>
+</kornalar>

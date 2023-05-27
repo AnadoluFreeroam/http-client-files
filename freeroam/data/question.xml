@@ -1,0 +1,17 @@
+﻿<catalog type="questions">
+        <questions name="✦ Sunucumuzun kurucusu kimdir" desc="➤ Anadolu Freeroam Sahibi #Reckless'dır"/>
+	<questions name="✦ Sistemlerimiz Nelerdir" desc="➤ Araç Kamber Sistemi , Parça Sistemi , S*x Sistemi , Korna Sistemi,Korna Sistemi, Sinyal Sistemi,Air Sistemi. Yakında yeni sistemlerimiz gelecektir."/>
+        <questions name="✦ Kurallar Nelerdir" desc="➤ Kurallarımızı Öğrenmek Için F9 Tuşundan Kurallar Bölümüne Gidebilirsiniz."/>
+        <questions name="✦ Sıralamalı VİP Sistemi" desc="➤ Sunucumuzda 300 saate Gold Vip verilir, 200 saate Silver Vip, 100 saate Bronz Vip verilir."/>
+        <questions name="✦ Sosyal Medya Hesaplarımız" desc="➤ Facebook Sayfamız için /facebook - Discord sunucumuz için /discord yazabilirsiniz"/>
+        <questions name="✦ Bakımlar Ne zaman yapılır" desc="➤ Sunucumuz her ayın 2 günü bakıma girer yeni modlar eklenir."/>
+        <questions name="✦ Etkinlikler hangi gün" desc="➤ Sunucumuzdaki etkinlikler Hafta sonu Cumartesi-pazar günlerinde yapılır."/>
+		<questions name="✦ FPS Nasıl yükseltebilirim?" desc="➤ FPS yükseltebilmeniz için öncelikle ekran çözünürlüğünüzü ve ayarları düşürmeniz gerekmektedir. /fps yazarakta fps artışı sağlayabilirsiniz."/>"
+		<questions name="✦ Parayı nasıl fulleyebilirim?" desc="➤ /hesoyam yazarak paranızı fulleyebilirsiniz."/>
+		<questions name="✦ Saati ve havayı nasıl değiştiririm?" desc="➤ /st 12 veya /saat 12 yazarak havayı gündüz /st 00 yazarakta havayı gece yapabilirsiniz."/>
+		<questions name="✦ Can, Zırh, Kas, Silah ve crosshair nasıl alabilirim?" desc="➤ F2 Panel'den can, zırh, kas, silah alabilir /crosshair yazarakta crosshair alabilirsiniz."/>
+		<questions name="✦ Hesapta oynadığım süre zarfını nerden görebilirim?" desc="➤ TAB tuşuna basılı tutarak açılan listeden görebilirsiniz."/>
+		<questions name="✦ Şikayet nasıl ederim?" desc="➤ Şikayeti discord'dan ticket açarak bildirebilirsiniz."/>
+		<questions name="✦ Silahlarımı nasıl sıfırlayabilirim?" desc="➤ F2 panel'den hesabınızda olan tüm silahları sıfırlayabilirsiniz."/>
+		
+</catalog>
